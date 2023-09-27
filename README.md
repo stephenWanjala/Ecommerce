@@ -25,6 +25,12 @@
    git clone https://github.com/stephenWanjala/Ecommerce.git
    cd Ecommerce
    ```
+2. Create and activate a virtual environment:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+3. ```
 
     Install the required packages using pip:
 
